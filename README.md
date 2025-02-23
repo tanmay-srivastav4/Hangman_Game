@@ -50,8 +50,8 @@ A simple implementation of the classic Hangman game in Python where players atte
   ```
   Welcome to Hangman!
   _ _ _ _ _ _
-  Guess a letter: p
-  _ p _ _ _ _
+  Guess a letter: s
+  _ s _ _ _ _
   Guess a letter: x
   That letter doesn't appear in the word.
   Attempts remaining: 9
